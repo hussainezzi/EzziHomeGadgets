@@ -1,0 +1,5 @@
+{
+  "name": "React E-Commerce Storefront",
+  "description": "A simple, single-page e-commerce storefront built with React and Tailwind CSS. It features a product catalog parsed from a CSV string, an in-memory cart, and a WhatsApp checkout integration.",
+  "requestFramePermissions": []
+}
